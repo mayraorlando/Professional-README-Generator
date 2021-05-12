@@ -1,7 +1,10 @@
 
 # Professional-README-Generator!
-Here is a image of my project. 
+The professional ReadMe generator is a command-line-input application run in Node.js that requests information from the user.Before running the application the user must perform an "npm install" to install all required dependencies. Before the app is launched the user is asked a series of questions. When the user is done entering the information a ReadMe file will appear.  
+
 [Capture1](https://user-images.githubusercontent.com/44445250/117557831-40b88a80-b045-11eb-8e16-6f70ce9fcd0f.PNG)
+
+![video](https://user-images.githubusercontent.com/44445250/117906263-9178ef00-b2a2-11eb-9d85-db3c754fb4ab.gif)
 
 
 
